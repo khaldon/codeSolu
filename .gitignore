@@ -1,0 +1,9 @@
+*.log 
+*.pyc
+*.vscode/
+.env
+*.env
+migrations/
+.idea/
+db.sqlite3
+
